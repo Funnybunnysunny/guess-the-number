@@ -1,0 +1,13 @@
+\body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+input {
+  font-size: 16px;
+  padding: 5px;
+}
+button {
+  font-size: 16px;
+  padding: 5px;
+}
